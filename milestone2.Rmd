@@ -1,0 +1,22 @@
+---
+title: "Project Milestone 2"
+author: "Angela Fu"
+date: "9/20/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Project 1
+
+**Project:** What makes a top hit on the Billboard charts?
+
+The biggest pro of this project is that it chooses a wide variety of metrics to analyze. For example, it not only looks into overall trends on the Billboard charts such as the number of songs to appear on the Top 100 and the number of songs from each genre, but it also examines individual characteristics in songs. Under the Music Analysis tab alone, the project looks at five characteristics of each song: energy, liveness, tempo, speechiness, danceability. One con, however, is that in some graphs, it is unclear what certain plots mean. For Title Length and Duration, it is unclear to the viewer what the dotted blue line means. There is also not much explanation of the statistic output and what it means. Finally, it seems like there could be a more efficient way of displaying the data across different years for the Genre and Music Analysis tabs, rather than making the viewer un-check up to 17 different boxes individually.
+
+## Project 2
+
+**Project:** Mueller Report Text analysis
+
+One pro of this project is its thoroughness. It analyzes both word frequency (and by section) as well as sentiment, which allows the viewer to get a broad idea of the contents of the 400-page text very quickly. I found it interesting that the project went ahead and processed the text so that other researchers can use the data to run their own text analysis. It also has a very sleek and visually appealing design. One con is that some concepts aren't explained. For example, the project does not say what "zipf's law" is and why it's a valid way to analyze the data. Additionally, certain sections could probably be more organized. The section that contains definitions scraped from Wikipedia is helpful, but it's unclear why the definitions are listed in the order there are. Perhaps a more intuitive organizational scheme would be alphabetical order.  
